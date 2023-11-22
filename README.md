@@ -10,3 +10,5 @@
 ![ELIMINAR](https://github.com/REriveradelgadillo/UIII-act-2-CRUD-V2/blob/main/Eliminar.png)
 ## index
 ![INDEX](https://github.com/REriveradelgadillo/UIII-act-2-CRUD-V2/blob/main/index.png)
+## base de datos
+![BASE DE DATOS](https://github.com/REriveradelgadillo/UIII-act-2-CRUD-V2/blob/main/base%20de%20datos.png)
